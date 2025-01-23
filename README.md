@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shyakx
 - 👀 I’m interested in data engineering, system administration, mobile develoment
-- 🌱 I’m currently learning (tailwind css , html and javascript) + python
-- 💞️ I’m looking to collaborate on creating a study website from DOM , Javascrpt and html css
+- 🌱 I have expertise in Deep learning, ML model training
+- 🏭 I’m ready for any collaboration in all fields above
 - 📫 How to reach me ... slack: Steven SHYAKA
 - Email me : shyakasteven2023@gmail.com
 
